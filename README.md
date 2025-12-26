@@ -1,5 +1,7 @@
 # StudyAbroadAi - Frontend
 
+# StudyAbroadAi - Backend Repo - https://github.com/nh246/StudyAbroadAiBackend
+
 AI-powered study abroad consultation platform built with **Vite + React + TypeScript**.
 
 ---
